@@ -6,3 +6,4 @@ Documentation moved to `climweb.readthedocs.io <https://climweb.readthedocs.io>`
 Documentation has been moved to `climweb.readthedocs.io <https://climweb.readthedocs.io>`_
 
    
+.. image:: _static/images/home/cms_responsive.png
